@@ -1,8 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# ToDo List using ReactJS and TailWind CSS Vite with react-icons
+This is the todo list app using React JS and tailwind CSS
+The source files are in src folder/App.jsx
+All the basic functionalities of Todo list is working with edit option, delete option, adding a new todo
+Even after refreshing the webpage, the details/list will stay intact in the local Storage
+## Run Commands in terminal
+```
+npm install react react-icons uuid
+```
+## also follow the commands to install Tailwind CSS with Vite
